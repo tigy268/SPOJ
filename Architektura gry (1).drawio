@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T11:14:23.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="mXjZ15il6QVDEjFKjKWW" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T11:18:20.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="Kk9i9GP5dwUykEQUxQSP" version="20.5.3" type="github">
   <diagram id="H0S2KHMytncWIIM8KXZ4" name="Strona-1">
     <mxGraphModel dx="998" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
             <mxPoint x="610" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2U4-hBHOdkxEe4YxiRbD-11" value="Silnik&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="2U4-hBHOdkxEe4YxiRbD-11" value="Game engine" style="swimlane;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="260" y="10" width="600" height="480" as="geometry" />
         </mxCell>
         <mxCell id="2U4-hBHOdkxEe4YxiRbD-13" value="GPU" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="2U4-hBHOdkxEe4YxiRbD-11">
